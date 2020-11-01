@@ -11,7 +11,7 @@ import java.util.Objects;
 /**
  * {@link ValidCardNumber} {@link ConstraintValidator} 实现
  *
- * 第35分钟
+ *
  *
  * @Author: LIH
  * @Date: 2020/9/12 23:02
