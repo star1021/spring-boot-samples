@@ -25,7 +25,7 @@ public class UserController {
 
         //API 调用的方式
         Assert.hasText(user.getName(), "名称不能为空");
-        //JVM 断言 加jvm参数
+        //JVM 断言 加jvm参数 -ea
         assert user.getId() <= 10000;
         return user;
     }
